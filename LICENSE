@@ -12,8 +12,7 @@ The demo version of this project, including:
 is licensed under the MIT License:
 
 NOTE: The core generator code (karaoke_alignment_generator.py and 
-karaoke_mobile_generator.py) is NOT included in this repository and 
-requires sponsorship to access.
+karaoke_mobile_generator.py) is NOT included in this repository.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -33,39 +32,30 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## Full Version (Sponsor Access)
+## Full Version
 
 The full version of this project, including:
 - Core generator code (karaoke_alignment_generator.py)
 - Mobile generator code (karaoke_mobile_generator.py)
-- Additional 50+ story templates
-- Batch processing tools (50-100 videos per day)
+- Batch processing tools (50-100 videos per day capability)
 - Advanced features and configurations
-- Commercial use rights
 
-is proprietary software and requires sponsorship to access.
+is currently in development.
 
-### Sponsorship Terms
-
-1. Personal Use License (Silver/Gold Tier):
-   - Granted to individual sponsors
-   - For personal and educational use only
-   - Cannot be redistributed or used commercially
-   - Valid for the lifetime of the sponsor
-
-2. Commercial Use License (Diamond Tier):
-   - Granted to diamond tier sponsors
-   - Allows commercial use and distribution
-   - Includes technical support
-   - Valid for the lifetime of the sponsor
+NOTE: Story content (text and audio files) is NOT included in the open source release.
+Users need to prepare their own English text and audio files.
 
 ### Open Source Commitment
 
-When this project reaches 2,000 sponsors (minimum ¥10 / $1.5 per sponsor), 
-the full version will be released under the MIT License and become completely 
-open source.
+When this project reaches the following goal, the full version will be 
+released under the MIT License and become completely open source:
 
-Current Progress: 0 / 2,000 sponsors
+- 2,000 sponsors AND total amount of ¥20,000
+- OR total amount reaches ¥20,000 (regardless of sponsor count)
+
+Minimum sponsorship: ¥10 / $1.5 per sponsor
+
+Current Progress: 0 / 2,000 sponsors, ¥0 / ¥20,000
 
 For sponsorship information, see: SPONSORSHIP.md
 
