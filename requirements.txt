@@ -1,0 +1,12 @@
+moviepy>=1.0.3
+openai-whisper>=20240930
+whisperx>=3.1.1
+Pillow>=10.0.0
+numpy>=1.21.0
+opencv-python>=4.8.0
+torch>=2.0.0
+torchaudio>=2.0.0
+diffusers>=0.25.0
+transformers>=4.21.0
+accelerate>=0.25.0
+librosa>=0.10.0

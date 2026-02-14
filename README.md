@@ -1,0 +1,147 @@
+# 🎬 AI 卡拉OK英语学习视频生成器
+
+[![License](https://img.shields.io/badge/license-Partial%20Open%20Source-orange.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Website](https://img.shields.io/badge/website-词峰阁-blue.svg)](https://www.wordpeak.cn)
+
+> 🌟 **半开源项目** - 当达到 2000 位赞助者时，将完全开源！  
+> 🏢 **由璇泽网络科技制作**
+
+自动生成带有逐词高亮字幕的英语学习视频。使用 AI 语音识别和强制对齐技术，创建卡拉OK式的学习体验。
+
+## ✨ 功能特点
+
+- 🎤 **精确词级对齐** - 毫秒级精度的字幕同步
+- 🎨 **逐词高亮效果** - 卡拉OK风格跟踪朗读
+- 🌏 **双语字幕** - 中英文对照显示
+- 🎬 **批量生成** - 理想状态下一天可生成 50-100 个视频
+- 📱 **多平台支持** - 桌面版和移动版
+- ⚡ **高效自动化** - 一键生成专业级学习视频
+
+## 🎥 Demo 展示
+
+[▶️ 观看 Demo 视频](karaoke_alignment_videos/Story_01_Karaoke_Complete.mp4)
+
+**Demo 故事**: A Day at the Park (公园的一天)
+- 8 个句子，初级英语水平
+- 完整的中英文对照
+- 展示所有核心功能
+
+## 🚀 快速开始
+
+### 安装
+
+```bash
+# 克隆仓库
+git clone https://github.com/XuanzeNetDev/karaoke-english-learning.git
+cd karaoke-english-learning
+
+# 安装依赖
+pip install -r requirements.txt
+```
+
+### 生成 Demo
+
+```bash
+# 1. 准备音频文件（使用 TTS 工具生成）
+# 保存为: Stories_audio/Story_01_A_Day_at_the_Park.wav
+
+# 2. 运行生成脚本
+python generate_demo.py
+```
+
+详细说明请查看 [Demo 使用指南](DEMO.md)
+
+## 🔒 开源状态
+
+### 当前开源（Demo 版本）
+
+✅ 核心生成器代码  
+✅ 1 个完整示例故事  
+✅ 完整技术文档  
+
+### 完整版功能（赞助解锁）
+
+🔐 50+ 精选英语学习故事  
+🔐 批量生成工具（一天 50-100 个视频）  
+🔐 自定义主题和样式  
+🔐 移动端优化版本  
+🔐 商业使用许可  
+
+## 💝 赞助计划
+
+**承诺**: 当达到 2000 位赞助者时，项目将完全开源！
+
+**最低赞助金额**: ¥10 / $1.5
+
+**当前进度**: 0 / 2000 (0%)
+
+[💖 查看赞助计划](SPONSORSHIP.md)
+
+## 🛠️ 技术栈
+
+- OpenAI Whisper - 语音识别
+- torchaudio - 强制对齐
+- MoviePy - 视频处理
+- PyTorch - 深度学习
+
+## 🏢 关于璇泽网络科技
+
+璇泽网络科技是一家专注于打造优质服务体验的初创企业，始终秉持"用户为本"的核心理念。
+
+### 🌟 我们的产品：词峰阁
+
+**词峰阁** (WordPeak) 是一款专为英语学习者搭建的综合性社区平台，已正式上线！
+
+🔗 **访问网站**: [www.wordpeak.cn](https://www.wordpeak.cn)
+
+**核心功能**:
+- 📚 单词学习系统
+- 🎧 文章听力训练
+- 💬 论坛交流社区
+- 🎯 个性化学习路径
+
+词峰阁同步覆盖网站与移动应用，力求帮助每一位用户高效巩固知识，收获优质的学习体验。
+
+### 💡 关于本项目
+
+本项目由璇泽网络科技开发，旨在为英语学习内容创作者提供高效的视频生成工具。
+
+**为什么半开源？**
+
+我们目前正处于初创阶段，急需筹集资金以支持：
+- 产品持续开发和优化
+- 服务器和基础设施
+- 团队运营和扩展
+
+因此，本项目暂时采用半开源模式。当获得足够支持（2000 位赞助者）后，我们将完全开源所有代码，回馈社区！
+
+## 📖 文档
+
+- [Demo 使用指南](DEMO.md)
+- [常见问题](docs/FAQ.md)
+- [赞助计划](SPONSORSHIP.md)
+
+## 📄 许可证
+
+- Demo 版本: MIT License
+- 完整版本: 需要赞助解锁
+
+详见 [LICENSE](LICENSE)
+
+## 🤝 贡献
+
+欢迎提交 Issue 和 Pull Request！
+
+## 📧 联系方式
+
+- 🏢 公司: 璇泽网络科技
+- 🌐 网站: [www.wordpeak.cn](https://www.wordpeak.cn)
+- 📮 Email: haimingle@xuanzenet.freeqiye.com
+- 🐛 Issues: https://github.com/XuanzeNetDev/karaoke-english-learning/issues
+
+---
+
+⭐ 如果这个项目对你有帮助，请给我们一个 Star！
+
+💖 支持我们，让更多人受益于优质的英语学习工具！
