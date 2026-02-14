@@ -44,6 +44,16 @@ temp_karaoke_alignment_mobile/
 # Keep demo files
 !Stories_audio/Story_01_*.wav
 !karaoke_alignment_videos/Story_01_*.mp4
+!karaoke_alignment_videos_mobile/Story_01_*.mp4
+
+# Core generator code (for public demo repo only)
+karaoke_alignment_generator.py
+karaoke_mobile_generator.py
+test_demo_simple.py
+ffmpeg.exe
+
+# Temporary guide files
+_REPOSITORY_SETUP_GUIDE.md
 
 # Logs
 *.log

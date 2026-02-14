@@ -5,12 +5,15 @@ Copyright (c) 2026 璇泽网络科技 (Xuanze Network Technology)
 ## Demo Version (Current Repository)
 
 The demo version of this project, including:
-- karaoke_alignment_generator.py
-- generate_demo.py
-- Story_01 example files
+- generate_demo.py (demo script)
+- Story_01 example files (text, audio, video)
 - Documentation
 
 is licensed under the MIT License:
+
+NOTE: The core generator code (karaoke_alignment_generator.py and 
+karaoke_mobile_generator.py) is NOT included in this repository and 
+requires sponsorship to access.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -33,6 +36,8 @@ SOFTWARE.
 ## Full Version (Sponsor Access)
 
 The full version of this project, including:
+- Core generator code (karaoke_alignment_generator.py)
+- Mobile generator code (karaoke_mobile_generator.py)
 - Additional 50+ story templates
 - Batch processing tools (50-100 videos per day)
 - Advanced features and configurations
