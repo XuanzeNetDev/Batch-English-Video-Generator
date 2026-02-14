@@ -50,7 +50,7 @@
 
 本仓库是 **Demo 展示版本**，仅包含示例代码和预生成的视频。
 
-**核心生成器代码**（`karaoke_alignment_generator.py` 和 `karaoke_mobile_generator.py`）位于私有仓库，需要通过赞助获得访问权限。
+**核心生成器代码**（`karaoke_alignment_generator.py` 和 `karaoke_mobile_generator.py`）位于 [私有仓库](https://github.com/XuanzeNetDev/Batch-English-Video-Generator-Full)，需要通过赞助获得访问权限。
 
 ### 查看 Demo 视频
 
@@ -68,6 +68,8 @@
 详细说明请查看 [Demo 使用指南](DEMO.md)
 
 ## 🔒 开源状态
+
+> 📦 **完整代码仓库**: [Batch-English-Video-Generator-Full](https://github.com/XuanzeNetDev/Batch-English-Video-Generator-Full) (私有)
 
 ### 当前开源（Demo 版本）
 
