@@ -26,23 +26,29 @@
 
 ### 📺 Demo 视频 - 电脑版 (1920x1080)
 
-[![观看电脑版 Demo](https://img.shields.io/badge/▶️_观看视频-电脑版_Demo-blue?style=for-the-badge)](https://github.com/XuanzeNetDev/Batch-English-Video-Generator/releases/download/v1.0.0-demo/Story_01_Karaoke_Complete.mp4)
-
 **Demo 故事**: A Day at the Park (公园的一天)
+
+https://github.com/XuanzeNetDev/Batch-English-Video-Generator/releases/download/v1.0.0-demo/Story_01_Karaoke_Complete.mp4
+
 - 8 个句子，初级英语水平
 - 完整的中英文对照
 - 展示卡拉OK逐词高亮效果
 
 ### 📱 Demo 视频 - 手机版 (1080x1920)
 
-[![观看手机版 Demo](https://img.shields.io/badge/▶️_观看视频-手机版_Demo-green?style=for-the-badge)](https://github.com/XuanzeNetDev/Batch-English-Video-Generator/releases/download/v1.0.0-demo/Story_01_Karaoke_Mobile_V3_Simple.mp4)
-
 **移动端优化版本**
+
+https://github.com/XuanzeNetDev/Batch-English-Video-Generator/releases/download/v1.0.0-demo/Story_01_Karaoke_Mobile_Compressed.mp4
+
 - 竖屏布局，适合手机观看
 - 相同的逐词高亮效果
 - 双语字幕显示
 
+<<<<<<< HEAD
 > 💡 提示：点击上方按钮可在浏览器中播放视频，或访问 [Releases 页面](https://github.com/XuanzeNetDev/Batch-English-Video-Generator/releases) 下载
+=======
+> 💡 提示：视频可直接在浏览器中播放，或访问 [Releases 页面](https://github.com/XuanzeNetDev/Batch-English-Video-Generator/releases) 下载完整版本
+>>>>>>> public-demo
 
 ## 🚀 快速开始
 
