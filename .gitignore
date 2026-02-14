@@ -52,6 +52,9 @@ karaoke_mobile_generator.py
 test_demo_simple.py
 ffmpeg.exe
 
+# Model documentation (private repo only)
+MODELS_AND_DEPENDENCIES.md
+
 # Temporary guide files
 _REPOSITORY_SETUP_GUIDE.md
 
