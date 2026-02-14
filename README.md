@@ -26,7 +26,7 @@
 
 ### 📺 Demo 视频 - 电脑版 (1920x1080)
 
-[▶️ 观看电脑版 Demo](karaoke_alignment_videos/Story_01_Karaoke_Complete.mp4)
+[▶️ 下载观看电脑版 Demo](https://github.com/XuanzeNetDev/Batch-English-Video-Generator/releases/download/v1.0.0-demo/Story_01_Karaoke_Complete.mp4)
 
 **Demo 故事**: A Day at the Park (公园的一天)
 - 8 个句子，初级英语水平
@@ -35,12 +35,14 @@
 
 ### 📱 Demo 视频 - 手机版 (1080x1920)
 
-[▶️ 观看手机版 Demo](karaoke_alignment_videos_mobile/Story_01_Karaoke_Mobile_V3_Simple.mp4)
+[▶️ 下载观看手机版 Demo](https://github.com/XuanzeNetDev/Batch-English-Video-Generator/releases/download/v1.0.0-demo/Story_01_Karaoke_Mobile_V3_Simple.mp4)
 
 **移动端优化版本**
 - 竖屏布局，适合手机观看
 - 相同的逐词高亮效果
 - 双语字幕显示
+
+> 💡 提示：点击链接可直接下载视频观看，或访问 [Releases 页面](https://github.com/XuanzeNetDev/Batch-English-Video-Generator/releases) 查看所有版本
 
 ## 🚀 快速开始
 
