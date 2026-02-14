@@ -18,14 +18,29 @@
 - 📱 **多平台支持** - 桌面版和移动版
 - ⚡ **高效自动化** - 一键生成专业级学习视频
 
-## 🎥 Demo 展示
+## 🎥 视频展示
 
-[▶️ 观看 Demo 视频](karaoke_alignment_videos/Story_01_Karaoke_Complete.mp4)
+### 📹 使用教程
+
+> 🎬 教程视频制作中，敬请期待...
+
+### 📺 Demo 视频 - 电脑版 (1920x1080)
+
+[▶️ 观看电脑版 Demo](karaoke_alignment_videos/Story_01_Karaoke_Complete.mp4)
 
 **Demo 故事**: A Day at the Park (公园的一天)
 - 8 个句子，初级英语水平
 - 完整的中英文对照
-- 展示所有核心功能
+- 展示卡拉OK逐词高亮效果
+
+### 📱 Demo 视频 - 手机版 (1080x1920)
+
+[▶️ 观看手机版 Demo](karaoke_alignment_videos_mobile/Story_01_Karaoke_Mobile_V3_Simple.mp4)
+
+**移动端优化版本**
+- 竖屏布局，适合手机观看
+- 相同的逐词高亮效果
+- 双语字幕显示
 
 ## 🚀 快速开始
 
