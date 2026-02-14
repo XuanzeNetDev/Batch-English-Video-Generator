@@ -160,7 +160,7 @@ A: 钻石赞助者可以申请发票。请联系我们提供开票信息。
 - 🏢 公司: 璇泽网络科技
 - 🌐 网站: [www.wordpeak.cn](https://www.wordpeak.cn)
 - 📮 Email: haimingle@xuanzenet.freeqiye.com
-- 🐛 Issues: https://github.com/XuanzeNetDev/karaoke-english-learning/issues
+- 🐛 Issues: https://github.com/XuanzeNetDev/Batch-English-Video-Generator/issues
 
 ## 🙏 感谢
 
