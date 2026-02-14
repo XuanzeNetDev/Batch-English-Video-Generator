@@ -44,11 +44,7 @@ https://github.com/XuanzeNetDev/Batch-English-Video-Generator/releases/download/
 - 相同的逐词高亮效果
 - 双语字幕显示
 
-<<<<<<< HEAD
-> 💡 提示：点击上方按钮可在浏览器中播放视频，或访问 [Releases 页面](https://github.com/XuanzeNetDev/Batch-English-Video-Generator/releases) 下载
-=======
 > 💡 提示：视频可直接在浏览器中播放，或访问 [Releases 页面](https://github.com/XuanzeNetDev/Batch-English-Video-Generator/releases) 下载完整版本
->>>>>>> public-demo
 
 ## 🚀 快速开始
 
