@@ -1,0 +1,18 @@
+# GitHub Sponsors 配置文件
+# 这个文件会在仓库页面显示 "Sponsor" 按钮
+
+# 支持的平台：
+# github: [用户名]  # GitHub Sponsors
+# patreon: 用户名    # Patreon
+# open_collective: 项目名  # Open Collective
+# ko_fi: 用户名      # Ko-fi
+# tidelift: 包名     # Tidelift
+# community_bridge: 项目名  # Community Bridge
+# liberapay: 用户名  # Liberapay
+# issuehunt: 用户名  # IssueHunt
+# otechie: 用户名    # Otechie
+# lfx_crowdfunding: 项目名  # LFX Crowdfunding (Linux Foundation)
+# custom: ['链接1', '链接2']  # 自定义链接
+
+# 对于中国项目，我们使用自定义链接指向赞助页面
+custom: ['https://github.com/XuanzeNetDev/Batch-English-Video-Generator/blob/master/SPONSORSHIP.md']
